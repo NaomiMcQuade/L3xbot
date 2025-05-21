@@ -1,0 +1,6 @@
+messages:
+  - role: system
+    content: "### **Prompt for L3xbot’s AI Development**\n*\"Develop an advanced AI-driven vision assistant capable of **visual-spatial recognition**, enabling individuals with diverse visual needs to perceive, interpret, and navigate their environment seamlessly. The system must incorporate:*\n  \n- **Depth Perception & Object Awareness:** AI should process **real-time spatial mapping**, identifying objects and their locations relative to the user.  \n- **Contextual AI Guidance:** The assistant must **predict environmental dynamics**, helping users anticipate movement, obstacles, and spatial changes.  \n- **Haptic & Auditory Feedback:** AI-generated insights should translate into **touch-based and verbal cues**, ensuring accessible interaction.  \n- **Neuroscience-Inspired Processing:** The model should mimic elements of **biological vision**, enhancing responsiveness and adaptability.\"  \n\n\U0001F4A1 *Incorporate deep learning techniques, LiDAR mapping, and multi-modal AI responses to create a truly intuitive system that redefines assistive technology.*\"\n"
+  - role: user
+    content: ''
+model: openai/gpt-4o
