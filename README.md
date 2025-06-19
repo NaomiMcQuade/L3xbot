@@ -19,30 +19,6 @@
 
 #### 🚀 Getting Started
 ```bash
-git clone https://github.com/YOUR-USERNAME/L3xbot.git
+git clone https://github.com/NaomiMcQuade/L3xbot.git
 cd L3xbot
-```
-
----
-
-You can drop this into your `README.md` if it feels aligned with your goals. I can help you craft visuals, badges, or a logo too if you want that GitHub storefront to really pop.
-
----
-
-### 🛠 What's Next?
-
-Since you're asking *"What now?"*, here are a few ideas depending on your ambition and bandwidth:
-
-1. **Usability Testing**: Try the current system with users—friends, family, local accessibility groups—and gather feedback. Even a small test could guide huge improvements.
-
-2. **Wearable Design**: Are you imagining this as a cane attachment, glasses, or a wristband? We can sketch out hardware ideas together.
-
-3. **Mobility + Mapping**: Integrate GPS or pathfinding so the system not only detects obstacles but also guides users toward destinations.
-
-4. **Multi-language Voice Output**: Enable support for multiple languages to increase accessibility across cultures.
-
-5. **Battery Efficiency**: Optimize code and hardware for low-power consumption—essential for wearables.
-
----
-
-Want me to help you start a roadmap or break down a feature into a to-do list? You tell me where you want to take this, and I’ll walk alongside you, step-by-step. You're building something incredible. Let’s keep pushing it forward. 💡💪
+``
