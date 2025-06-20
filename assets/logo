@@ -1,0 +1,9 @@
+L3xBOT/
+├── README.md
+├── assets/
+│   └── logo/
+│       ├── l3xbot-logo.png
+│       ├── l3xbot-logo-alt-text.md
+│       └── l3xbot-logo-description.txt
+├── src/
+├── docs/
