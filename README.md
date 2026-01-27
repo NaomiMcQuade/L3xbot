@@ -6,6 +6,10 @@
 
 #### ✨ Features
 - 🏷 **Object Recognition** — Real-time detection and identification using YOLOv3 and OpenCV.
+​🔬 The Logic of Perception
+​Edge-Aware Synthesis: Uses Canny filtering to resolve boundary-bleed for high myopia (-10.00 diopters).
+​Motion-Parallax Depth: Since I am monocular, the system is being tuned to calculate depth-from-motion, mirroring how the human brain adapts to one-eye vision.
+​Semantic Contrast: Leveraging CLAHE (Contrast Limited Adaptive Histogram Equalization) to reveal details in flat or high-glare lighting (like snow).
 - 🔊 **Speech Output** — Converts visual information into audio using Google Text-to-Speech (gTTS).
 - 📳 **Haptic Feedback** — Vibrates to signal nearby obstacles, assisting navigation through touch.
 - 🌍 **Accessible UX** — Built with simplicity and inclusivity at its core, ensuring ease of use for all.
